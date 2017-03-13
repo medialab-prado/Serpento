@@ -5,8 +5,8 @@ Serpento
 
 Autores
 ------------
-* Cristóbal Baños 
-* Diego Iglesias isab
+* Cristóbal Baños (www.hyperstudio.es)
+* Diego Iglesias (www.hyperstudio.es)
  
 Colaboradores
 ------------
